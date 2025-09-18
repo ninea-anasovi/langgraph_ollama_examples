@@ -1,4 +1,4 @@
-# Custom ReAct Agent with Ollama 3.1 and LangGraph
+# Custom Agents with Ollama 3.1 and LangGraph
 
 This project demonstrates how to build a **custom ReAct agent** using Ollama 3.1 LLaMA model and LangGraph for tool-calling and multi-step reasoning.
 
