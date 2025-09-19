@@ -63,7 +63,7 @@ def our_agent(state: AgentState) -> AgentState:
     """)
 
     if not state["messages"]:
-        user_input = "We have an empty document lets start from the scratch are you ready?"
+        user_input = input("Hi, This is an empty Documewnt how would you like to start?")
         user_message = HumanMessage(content=user_input)
 
     else:
